@@ -1,0 +1,7 @@
+*.kicad_prl
+fp-info-cache
+*-backups/
+*.bak
+SMCSKart-Mainboard-backups/
+production/backups/
+ND721000 Pin Explanations.md
