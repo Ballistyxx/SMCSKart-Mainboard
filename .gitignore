@@ -2,6 +2,9 @@
 fp-info-cache
 *-backups/
 *.bak
+*.xcf
+*.lck
 SMCSKart-Mainboard-backups/
 production/backups/
 ND721000 Pin Explanations.md
+/.history

@@ -165,5 +165,8 @@ The Teensy communicates with the ND721000 over **Serial1 (pins 0/1) at RS232 lev
 | Power port | Extra 3V3 / 5V / 24V supply breakout |
 | LED strip | 24 V RGB PWM output (pins 37, 36, 33) |
 
+
+For images of each port's annotated pinout, see [./docs/PINOUTS.md](./docs/PINOUTS.md)
+
 Made by Eli Ferrara, SMCS Class of 2026
 MIT License

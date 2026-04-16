@@ -1,0 +1,66 @@
+(footprint "#3V3#6"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "f367cb34-5977-4821-9437-69ba471b3477")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "ab70b11f-6203-4a4e-9cab-b5ef9ac3d012")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bb30308e-ecb6-49e5-b67f-f93dc788feb6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f6e2fe72-527c-4a29-b0ea-9828a130eb60")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_poly
+		(pts
+			(xy 1.800414 -0.685) (xy 1.865 -0.674236) (xy 1.865 0.620414) (xy 1.854236 0.685) (xy -1.810963 0.685)
+			(xy -1.865 0.663385) (xy -1.865 -0.630963) (xy -1.843385 -0.685)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "f1481d74-32c3-4bdf-8a42-cf691e5fdac3")
+	)
+	(embedded_fonts no)
+)
